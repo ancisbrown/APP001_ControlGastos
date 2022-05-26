@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"Control de gastos"</string>
+    <string name="tituloGasto">Añadir nuevo gasto</string>
+    <string name="inGasto">Gasto</string>
+    <string name="inMonto">Monto</string>
+    <string name="inFecha">Fecha de pago</string>
+    <string name="btnAgregar">Agregar Gasto</string>
+</resources>
